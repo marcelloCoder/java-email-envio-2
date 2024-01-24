@@ -25,7 +25,7 @@ public class AppTest
 	//private String password = "fhom xkga ekxn itow";
 	
     @Test
-    public void testeEmail(){
+    public void testeEnviarEmail(){
     	
     	try {
     	Properties properties = new Properties();
